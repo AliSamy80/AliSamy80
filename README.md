@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Samy</h1>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ali+Samy+Mohammed;A+FullStack+Developer+Using+.Net" alt="Typing SVG"/></a>
 <h3 align="center">A passionate Fullstack Web Developer (.Net | Angular ) from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisamy80&label=Profile%20views&color=0e75b6&style=flat" alt="alisamy80" /> </p>
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisamy80&show_icons=true&locale=en" alt="alisamy80" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisamy80&" alt="alisamy80" /></p>
-
